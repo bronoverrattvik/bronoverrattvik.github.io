@@ -1,4 +1,10 @@
 # Bron över Rattvik
+
+Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.
+
+* https://bronoverrattvik.bandcamp.com/
+* https://soundcloud.com/bronoverrattvik
+
 <img src="images/folder_q80.jpg" />
 
 ## E01: Vi har aldrig orkat läsa Martinson
