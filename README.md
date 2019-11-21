@@ -1,4 +1,4 @@
-# Bron över Rattvik
+# Bron över Rättvik
 
 Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.
 
