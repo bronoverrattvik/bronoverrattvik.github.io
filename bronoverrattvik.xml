@@ -4,11 +4,11 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Thu, 21 Nov 2019 12:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 12:17:51 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>Some rights reserved: https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
-    <webMaster>bronoverrattvik@joelson.org (Bron över Rättvik)</webMaster>
+    <webMaster>bronoverrattvik@gmail.com (Bron över Rättvik)</webMaster>
     <ttl>60</ttl>
     <image>
       <url>https://bronoverrattvik.github.io/b/image.jpg</url>
@@ -17,7 +17,7 @@
     </image>
     <atom:link href="http://www.example.com/rss" rel="self" type="application/rss+xml"/>
     <itunes:subtitle>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</itunes:subtitle>
-    <itunes:author>bronoverrattvik@joelson.org (Bron över Rättvik)</itunes:author>
+    <itunes:author>Bron över Rättvik</itunes:author>
     <itunes:summary>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</itunes:summary>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:category text="News">
@@ -27,6 +27,10 @@
     <itunes:category text="Comedy">
       <itunes:category text="Comedy Interviews"/>
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>Bron över Rättvik</itunes:name>
+      <itunes:email>bronoverrattvik@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://bronoverrattvik.github.io/b/image.jpg"/>
     <item>
       <itunes:author>Bron över Rättvik</itunes:author>
