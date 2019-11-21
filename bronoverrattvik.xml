@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Bron över Rättvik</title>
+    <link>https://www.facebook.com/bronoverrattvik/</link>
+    <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
+    <lastBuildDate>Thu, 21 Nov 2019 11:55:00 +0000</lastBuildDate>
+    <language>sv-se</language>
+    <copyright>Some rights reserved: https://creativecommons.org/licenses/by-nd/3.0/</copyright>
+    <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
+    <webMaster></webMaster>
+    <ttl>60</ttl>
+    <image>
+      <url>https://bronoverrattvik.github.io/b/image.jpg</url>
+      <link>https://www.facebook.com/bronoverrattvik/</link>
+      <title>Bron över Rättvik</title>
+    </image>
+    <atom:link href="http://www.example.com/rss" rel="self" type="application/rss+xml"/>
+    <itunes:subtitle>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</itunes:subtitle>
+    <itunes:author>Bron över Rättvik</itunes:author>
+    <itunes:summary>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</itunes:summary>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:category text="News">
+      <itunes:category text="Politics"/>
+    </itunes:category>
+    <itunes:category text="History"/>
+    <itunes:category text="Comedy"/>
+    <itunes:image href="https://bronoverrattvik.github.io/b/image.jpg"/>
+    <item>
+      <itunes:author>Bron över Rättvik</itunes:author>
+      <itunes:duration>47:40</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Bron över Rättvik är tillbaka efter ett 20 år långt uppehåll. Som ni har väntat! Vi har lämnat kassettband bakom oss och satsar på innovativ så kallad "podcast". I veckans avsnitt avhandlar vi arbetarförfattare vi aldrig orkat läsa, Oskars Jordan Peterson-diet och applådsamhället. Det ska vara tyst när man applåderar!</itunes:summary>
+      <itunes:subtitle>Bron över Rättvik</itunes:subtitle>
+      <title>Vi har aldrig orkat läsa Martinson</title>
+      <link>https://bronoverrattvik.github.io/b/01%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Vi%20har%20aldrig%20orkat%20l%C3%A4sa%20Martinson.mp3</link>
+      <pubDate>Sun, 17 Nov 2019 12:00:00 +0000</pubDate>
+      <description><![CDATA[Bron över Rättvik är tillbaka efter ett 20 år långt uppehåll. Som ni har väntat! Vi har lämnat kassettband bakom oss och satsar på innovativ så kallad &quot;podcast&quot;. I veckans avsnitt avhandlar vi arbetarförfattare vi aldrig orkat läsa, Oskars Jordan Peterson-diet och applådsamhället. Det ska vara tyst när man applåderar!]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/01%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Vi%20har%20aldrig%20orkat%20l%C3%A4sa%20Martinson.mp3" length="65318415" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Allt du velat veta på 5 minuter</itunes:author>
+      <itunes:duration>1:29</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Ny populärvetenskaplig podcast som förklarar det vill veta på fem minuter.</itunes:summary>
+      <itunes:subtitle>Allt du velat veta på 5 minuter</itunes:subtitle>
+      <title>2016-12-30 Trailer</title>
+      <link>https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202016-12-30%20Trailer.mp3</link>
+      <pubDate>Sun, 24 Sep 2017 18:17:44 +0000</pubDate>
+      <description><![CDATA[Ny populärvetenskaplig podcast som förklarar det vill veta på fem minuter.]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202016-12-30%20Trailer.mp3" length="1428904" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Allt du velat veta på 5 minuter</itunes:author>
+      <itunes:duration>5:02</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Allt du velat veta på 5 minuter om Alexander den store, en av historiens största härförare.</itunes:summary>
+      <itunes:subtitle>Allt du velat veta på 5 minuter</itunes:subtitle>
+      <title>2017-01-12 Alexander den store</title>
+      <link>https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-12%20Alexander%20den%20store.mp3</link>
+      <pubDate>Sun, 24 Sep 2017 18:17:36 +0000</pubDate>
+      <description><![CDATA[Allt du velat veta på 5 minuter om Alexander den store, en av historiens största härförare.]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-12%20Alexander%20den%20store.mp3" length="4834018" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Allt du velat veta på 5 minuter</itunes:author>
+      <itunes:duration>5:00</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Fem minuter om världens längsta mur.</itunes:summary>
+      <itunes:subtitle>Allt du velat veta på 5 minuter</itunes:subtitle>
+      <title>2017-01-13 Kinesiska muren</title>
+      <link>https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-13%20Kinesiska%20muren.mp3</link>
+      <pubDate>Sun, 24 Sep 2017 18:17:26 +0000</pubDate>
+      <description><![CDATA[Fem minuter om världens längsta mur.]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-13%20Kinesiska%20muren.mp3" length="4794311" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Allt du velat veta på 5 minuter</itunes:author>
+      <itunes:duration>5:20</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Möt en av nittonhundratalets mest inflytelserika författare, som skrev "Det andra könet".</itunes:summary>
+      <itunes:subtitle>Allt du velat veta på 5 minuter</itunes:subtitle>
+      <title>2017-01-16 Simone de Beauvoir</title>
+      <link>https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-16%20Simone%20de%20Beauvoir.mp3</link>
+      <pubDate>Sun, 24 Sep 2017 18:17:16 +0000</pubDate>
+      <description><![CDATA[Möt en av nittonhundratalets mest inflytelserika författare, som skrev &quot;Det andra könet&quot;.]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-16%20Simone%20de%20Beauvoir.mp3" length="5121991" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Allt du velat veta på 5 minuter</itunes:author>
+      <itunes:duration>5:53</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Fem minuter om spänningens mästare, regissören bakom Psycho, Fåglarna och De 39 stegen.</itunes:summary>
+      <itunes:subtitle>Allt du velat veta på 5 minuter</itunes:subtitle>
+      <title>2017-01-18 Alfred Hitchcock</title>
+      <link>https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-18%20Alfred%20Hitchcock.mp3</link>
+      <pubDate>Sun, 24 Sep 2017 18:17:06 +0000</pubDate>
+      <description><![CDATA[Fem minuter om spänningens mästare, regissören bakom Psycho, Fåglarna och De 39 stegen.]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Allt%20du%20velat%20veta%20p%C3%A5%205%20minuter%20-%202017-01-18%20Alfred%20Hitchcock.mp3" length="5650292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Bitar till kaffet</itunes:author>
+      <itunes:duration>2:05:40</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>http://www.bitartillkaffet.se/</itunes:summary>
+      <itunes:subtitle>Bitar till kaffet</itunes:subtitle>
+      <title>Bitar till kaffet #25 - 2 / Live på Retrospelsmässan!</title>
+      <link>https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20kaffet%20%2325%20-%202%20-%20Live%20p%C3%A5%20Retrospelsm%C3%A4ssan%21.mp3</link>
+      <pubDate>Mon, 30 May 2016 10:51:46 +0000</pubDate>
+      <description><![CDATA[http://www.bitartillkaffet.se/]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20kaffet%20%2325%20-%202%20-%20Live%20p%C3%A5%20Retrospelsm%C3%A4ssan%21.mp3" length="180991910" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Bitar till Kaffet</itunes:author>
+      <itunes:duration>2:11:46</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>http://www.bitartillkaffet.se/</itunes:summary>
+      <itunes:subtitle>Bitar till Kaffet</itunes:subtitle>
+      <title>Bitar till kaffet #25 - 3 / Live på Retrospelsmässan!</title>
+      <link>https://bronoverrattvik.github.io/b/Bitar%20till%20Kaffet%20-%20Bitar%20till%20kaffet%20%2325%20-%203%20-%20Live%20p%C3%A5%20Retrospelsm%C3%A4ssan%21.mp3</link>
+      <pubDate>Mon, 30 May 2016 10:51:46 +0000</pubDate>
+      <description><![CDATA[http://www.bitartillkaffet.se/]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Bitar%20till%20Kaffet%20-%20Bitar%20till%20kaffet%20%2325%20-%203%20-%20Live%20p%C3%A5%20Retrospelsm%C3%A4ssan%21.mp3" length="189776577" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Bitar till kaffet</itunes:author>
+      <itunes:duration>1:07:30</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>http://www.bitartillkaffet.se/</itunes:summary>
+      <itunes:subtitle>Bitar till kaffet</itunes:subtitle>
+      <title>Bitar till Kaffet #26</title>
+      <link>https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20Kaffet%20%2326.mp3</link>
+      <pubDate>Mon, 30 May 2016 10:51:46 +0000</pubDate>
+      <description><![CDATA[http://www.bitartillkaffet.se/]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20Kaffet%20%2326.mp3" length="98511886" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Bitar till kaffet</itunes:author>
+      <itunes:duration>1:10:38</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>http://www.bitartillkaffet.se/</itunes:summary>
+      <itunes:subtitle>Bitar till kaffet</itunes:subtitle>
+      <title>Bitar till kaffet #27 - Jultrams med BtK</title>
+      <link>https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20kaffet%20%2327%20-%20Jultrams%20med%20BtK.mp3</link>
+      <pubDate>Mon, 30 May 2016 10:51:46 +0000</pubDate>
+      <description><![CDATA[http://www.bitartillkaffet.se/]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20kaffet%20%2327%20-%20Jultrams%20med%20BtK.mp3" length="103376345" type="audio/mpeg"/>
+    </item>
+    <item>
+      <itunes:author>Bitar till kaffet</itunes:author>
+      <itunes:duration>1:08:32</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>http://www.bitartillkaffet.se/</itunes:summary>
+      <itunes:subtitle>Bitar till kaffet</itunes:subtitle>
+      <title>Bitar till kaffet #28 - Speedruns med "dxtr"</title>
+      <link>https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20kaffet%20%2328%20-%20Speedruns%20med%20%27dxtr%27.mp3</link>
+      <pubDate>Mon, 30 May 2016 10:51:46 +0000</pubDate>
+      <description><![CDATA[http://www.bitartillkaffet.se/]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/Bitar%20till%20kaffet%20-%20Bitar%20till%20kaffet%20%2328%20-%20Speedruns%20med%20%27dxtr%27.mp3" length="99337353" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
