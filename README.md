@@ -5,6 +5,7 @@ Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha
 * [Facebook](https://www.facebook.com/bronoverrattvik/)
 * [Bandcamp](https://bronoverrattvik.bandcamp.com/)
 * [SoundCloud](https://soundcloud.com/bronoverrattvik)
+* [RSS](bronoverrattvik.xml)
 
 <img src="b/image.jpg" />
 
