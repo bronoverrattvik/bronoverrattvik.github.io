@@ -2,9 +2,9 @@
 
 Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.
 
-* https://www.facebook.com/bronoverrattvik/
-* https://bronoverrattvik.bandcamp.com/
-* https://soundcloud.com/bronoverrattvik
+* [Facebook](https://www.facebook.com/bronoverrattvik/)
+* [Bandcamp](https://bronoverrattvik.bandcamp.com/)
+* [SoundCloud](https://soundcloud.com/bronoverrattvik)
 
 <img src="images/folder_q80.jpg" />
 
