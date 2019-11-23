@@ -4,7 +4,7 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Thu, 21 Nov 2019 20:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2019 08:26:11 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>Some rights reserved: https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
@@ -37,13 +37,31 @@
       <itunes:author>Bron över Rättvik</itunes:author>
       <itunes:duration>00:47:40</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
-      <itunes:summary>Bron över Rättvik är tillbaka efter ett 20 år långt uppehåll. Som ni har väntat! Vi har lämnat kassettband bakom oss och satsar på innovativ så kallad "podcast". I veckans avsnitt avhandlar vi arbetarförfattare vi aldrig orkat läsa, Oskars Jordan Peterson-diet och applådsamhället. Det ska vara tyst när man applåderar!</itunes:summary>
       <itunes:subtitle>Bron över Rättvik</itunes:subtitle>
+      <itunes:summary><![CDATA[Bron över Rättvik är tillbaka efter ett 20 år långt uppehåll. Som ni har väntat! Vi har lämnat kassettband bakom oss och satsar på innovativ så kallad &quot;podcast&quot;. I veckans avsnitt avhandlar vi arbetarförfattare vi aldrig orkat läsa, Oskars Jordan Peterson-diet och applådsamhället. Det ska vara tyst när man applåderar!<br />
+<br />
+* Att döda ett barn i Jonsered av Stig Dagerman: https://www.facebook.com/bronoverrattvik/posts/101052718035230<br />
+* Aniara av Harry Martinson<br />
+  * https://sv.wikipedia.org/wiki/Aniara<br />
+  * Filmen Aniara: https://www.imdb.com/title/tt7589524/ https://www.youtube.com/watch?v=3MIlE9R00ik<br />
+  * Bakgrundsmusiken är låten &quot;Aniaras tema&quot; och ingick i Ketil Bjørnstads rockopera: https://www.youtube.com/watch?v=xqRl1fqvmTo&#x26;t=125<br />
+* Om applåder på DSA-konferensen: https://www.youtube.com/watch?v=fhGloalAh1w&#x26;t=37 https://www.youtube.com/watch?v=ZRs7G7uLGa8&#x26;t=16<br />
+* Om SUF:s landsmöte 1998 i Direkt Aktion nr 1/98: https://suf.cc/wp-content/uploads/2017/11/DA_11.pdf https://i.imgur.com/UJxY2lY.png<br />
+* Jordan Petersons dotter uppmuntrar sin far att fortsätta med köttdiet: https://twitter.com/MikhailaAleksis/status/1100674556992335874]]></itunes:summary>
       <title>01. Vi har aldrig orkat läsa Martinson</title>
       <pubDate>Sun, 17 Nov 2019 12:00:00 +0000</pubDate>
       <guid isPermalink="false">01.+Vi+har+aldrig+orkat+l%C3%A4sa+Martinson-83cc9996dec355b7123e74cbde590ced</guid>
-      <description><![CDATA[Bron över Rättvik är tillbaka efter ett 20 år långt uppehåll. Som ni har väntat! Vi har lämnat kassettband bakom oss och satsar på innovativ så kallad &quot;podcast&quot;. I veckans avsnitt avhandlar vi arbetarförfattare vi aldrig orkat läsa, Oskars Jordan Peterson-diet och applådsamhället. Det ska vara tyst när man applåderar!]]></description>
-      <enclosure url="https://bronoverrattvik.github.io/b/01%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Vi%20har%20aldrig%20orkat%20l%C3%A4sa%20Martinson.mp3" length="65319451" type="audio/mpeg"/>
+      <description><![CDATA[Bron över Rättvik är tillbaka efter ett 20 år långt uppehåll. Som ni har väntat! Vi har lämnat kassettband bakom oss och satsar på innovativ så kallad &quot;podcast&quot;. I veckans avsnitt avhandlar vi arbetarförfattare vi aldrig orkat läsa, Oskars Jordan Peterson-diet och applådsamhället. Det ska vara tyst när man applåderar!<br />
+<br />
+* Att döda ett barn i Jonsered av Stig Dagerman: https://www.facebook.com/bronoverrattvik/posts/101052718035230<br />
+* Aniara av Harry Martinson<br />
+  * https://sv.wikipedia.org/wiki/Aniara<br />
+  * Filmen Aniara: https://www.imdb.com/title/tt7589524/ https://www.youtube.com/watch?v=3MIlE9R00ik<br />
+  * Bakgrundsmusiken är låten &quot;Aniaras tema&quot; och ingick i Ketil Bjørnstads rockopera: https://www.youtube.com/watch?v=xqRl1fqvmTo&#x26;t=125<br />
+* Om applåder på DSA-konferensen: https://www.youtube.com/watch?v=fhGloalAh1w&#x26;t=37 https://www.youtube.com/watch?v=ZRs7G7uLGa8&#x26;t=16<br />
+* Om SUF:s landsmöte 1998 i Direkt Aktion nr 1/98: https://suf.cc/wp-content/uploads/2017/11/DA_11.pdf https://i.imgur.com/UJxY2lY.png<br />
+* Jordan Petersons dotter uppmuntrar sin far att fortsätta med köttdiet: https://twitter.com/MikhailaAleksis/status/1100674556992335874]]></description>
+      <enclosure url="https://bronoverrattvik.github.io/b/01%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Vi%20har%20aldrig%20orkat%20l%C3%A4sa%20Martinson.mp3" length="65322080" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
