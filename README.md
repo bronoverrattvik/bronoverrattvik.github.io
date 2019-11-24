@@ -13,3 +13,4 @@ Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha
 <img src="b/image.jpg" />
 
 {% include_relative episodes/01.md %}
+{% include_relative episodes/02.md %}
