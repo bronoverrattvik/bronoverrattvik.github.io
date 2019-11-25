@@ -4,7 +4,7 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Mon, 25 Nov 2019 12:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 14:59:02 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>Some rights reserved: https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
@@ -16,7 +16,7 @@
       <link>https://www.facebook.com/bronoverrattvik/</link>
       <title>Bron över Rättvik</title>
     </image>
-    <atom:link href="http://www.example.com/rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://joelson.org/bronoverrattvik.xml" rel="self" type="application/rss+xml"/>
     <itunes:subtitle>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</itunes:subtitle>
     <itunes:author>Bron över Rättvik</itunes:author>
     <itunes:summary>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</itunes:summary>
