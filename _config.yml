@@ -1,2 +1,4 @@
 theme: minima
 google_analytics: UA-152693638-2
+minima:
+  skin: solarized-dark
