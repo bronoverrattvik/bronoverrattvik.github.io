@@ -10,3 +10,7 @@ $grey-color-dark: #adadad; /* such as the site title in the header, visited */
 $brand-color: #f9e200;
 
 @import "minima";
+
+.rss-subscribe {
+    display: none;
+}
