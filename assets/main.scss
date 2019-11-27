@@ -11,6 +11,18 @@ $brand-color: #f9e200;
 
 @import "minima";
 
+.profile {
+    width: 40%;
+    float: right;
+}
+
+@include media-query($on-laptop) {
+    .profile {
+        width: 100%;
+        float: inherit;
+    }
+}
+
 .rss-subscribe {
     display: none;
 }
