@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Bron över Rättvik
 
 Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.
@@ -13,6 +17,3 @@ Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha
 * [Spotify](https://open.spotify.com/show/04Xi26Pt01Tz1dzQwmfaFZ?si=JbeH5JtUQQ6xsZlA2ScAGA)
 
 <img src="b/image.jpg" />
-
-{% include_relative episodes/01.md %}
-{% include_relative episodes/02.md %}
