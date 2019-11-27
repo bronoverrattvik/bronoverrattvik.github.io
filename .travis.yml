@@ -9,9 +9,3 @@ install:
   - "gem install bundler"
   - "bundle install"
 script: "bundle exec jekyll build"
-
-env:
-  matrix:
-    - JEKYLL_VERSION="~> 3.5"
-    - JEKYLL_VERSION="~> 3.8.0"
-    - JEKYLL_VERSION=">= 4.0.0.pre.alpha1"
