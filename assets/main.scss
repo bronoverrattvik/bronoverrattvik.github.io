@@ -24,6 +24,13 @@ $brand-color: #f9e200;
   }
 }
 
+.post-content hr {
+  border: none;
+  border-top: 1px solid $grey-color-light;
+//  border-top: 1px solid $grey-color-dark;
+  margin-bottom: ($spacing-unit / 2);
+}
+
 .rss-subscribe,
 .site-footer .footer-heading {
   display: none;
@@ -59,6 +66,10 @@ audio {
         text-align: right;
       }
     }
+  }
+
+  .post-content hr {
+    border-top: 1px solid $grey-color-dark;
   }
 
   .site-footer .footer-heading {

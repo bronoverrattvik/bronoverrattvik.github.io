@@ -50,7 +50,7 @@
   </xsl:template>
 
   <xsl:template match="item" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
-      <li>
+      <li class="post-content">
         <span class="post-meta">
           <xsl:if test="count(child::pubDate)=1"><xsl:value-of select="substring(pubDate, 0, 17)"/></xsl:if>
           <xsl:if test="count(child::dc:date)=1"><xsl:value-of select="dc:date"/></xsl:if>
