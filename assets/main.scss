@@ -27,7 +27,6 @@ $brand-color: #f9e200;
 .post-content hr {
   border: none;
   border-top: 1px solid $grey-color-light;
-//  border-top: 1px solid $grey-color-dark;
   margin-bottom: ($spacing-unit / 2);
 }
 
@@ -57,8 +56,8 @@ audio {
     margin-bottom: $spacing-unit;
 
     > li {
-      background: $grey-color-light;
-      border-radius: ($spacing-unit / 6);
+      border: 1px solid $grey-color-light;
+      border-radius: ($spacing-unit / 3);
       padding: ($spacing-unit / 2);
       margin-bottom: ($spacing-unit / 2);
 
@@ -66,10 +65,6 @@ audio {
         text-align: right;
       }
     }
-  }
-
-  .post-content hr {
-    border-top: 1px solid $grey-color-dark;
   }
 
   .site-footer .footer-heading {
