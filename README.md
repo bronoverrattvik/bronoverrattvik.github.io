@@ -3,4 +3,4 @@
 
 Site for the podcast Bron över Rättvik.
 
-<img src="b/image.jpg" />
+<img src="favicons/android-chrome-512x512.png" />
