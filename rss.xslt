@@ -5,8 +5,7 @@
   <xsl:variable name="feedDesc" select="/rss/channel/description"/>
   <xsl:variable name="copyright" select="/rss/channel/copyright"/>
   <xsl:variable name="feedUrl" select="/rss/channel/atom:link[@rel='self']/@href" xmlns:atom="http://www.w3.org/2005/Atom"/>
-  <xsl:variable name="baseURL" select="''" xmlns:atom="http://www.w3.org/2005/Atom"/>
-  <!-- <xsl:variable name="baseURL" select="'https://bronoverrattvik.github.io'" xmlns:atom="http://www.w3.org/2005/Atom"/> -->
+  <xsl:variable name="baseURL" select="'https://bronoverrattvik.github.io'" xmlns:atom="http://www.w3.org/2005/Atom"/>
 
   <xsl:template match="/">
     <xsl:element name="html">
