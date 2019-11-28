@@ -11,7 +11,6 @@
     <xsl:element name="html">
       <head>
         <title><xsl:value-of select="$title"/></title>
-        <!-- <link href="{$baseURL}/styles.css" rel="stylesheet" type="text/css" media="all"/> -->
         <link href="{$baseURL}/assets/main.css" rel="stylesheet" type="text/css" media="all"/>
       </head>
       <xsl:apply-templates select="rss/channel"/>
