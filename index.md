@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Bron över Rättvik
 ---
-
-# Bron över Rättvik
 
 <img src="b/image.jpg" class="profile" />
 
