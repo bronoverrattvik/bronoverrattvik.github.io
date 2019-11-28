@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Bron över Rättvik
+list_title: Avsnitt
 ---
 
 <img src="b/image.jpg" class="profile" />
