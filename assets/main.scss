@@ -12,26 +12,56 @@ $brand-color: #f9e200;
 @import "minima";
 
 .profile {
-    width: 40%;
-    float: right;
+  width: 40%;
+  float: right;
+  margin-left: ($spacing-unit / 2);
 }
 
 @include media-query($on-laptop) {
-    .profile {
-        width: 100%;
-        float: inherit;
-    }
+  .profile {
+    width: 100%;
+    float: inherit;
+  }
 }
 
 .rss-subscribe,
 .site-footer .footer-heading {
-    display: none;
+  display: none;
 }
 
 .site-footer .contact-list .p-name {
-    color: $text-color;
+  color: $text-color;
 }
 
 audio {
-    width: 100%;
+  width: 100%;
+}
+
+
+// rss.xslt
+
+.rss-xslt {
+  .info {
+    @extend %clearfix;
+    margin-bottom: $spacing-unit;
+  }
+
+  .post-list {
+    margin-bottom: $spacing-unit;
+
+    > li {
+      background: $grey-color-light;
+      border-radius: ($spacing-unit / 6);
+      padding: ($spacing-unit / 2);
+      margin-bottom: ($spacing-unit / 2);
+
+      .download {
+        text-align: right;
+      }
+    }
+  }
+
+  .site-footer .footer-heading {
+    display: block;
+  }
 }
