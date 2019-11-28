@@ -23,8 +23,13 @@ $brand-color: #f9e200;
     }
 }
 
-.rss-subscribe {
+.rss-subscribe,
+.site-footer .footer-heading {
     display: none;
+}
+
+.site-footer .contact-list .p-name {
+    color: $text-color;
 }
 
 audio {
