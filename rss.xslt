@@ -131,6 +131,7 @@
     <xsl:text/>
   </xsl:template>
   <xsl:template name="outputContent">
+	  <xsl:variable name="vendor" select="system-property('xsl:vendor')"/>
     <xsl:choose>
       <xsl:when xmlns:xhtml="http://www.w3.org/1999/xhtml" test="xhtml:body">
         <xsl:copy-of select="xhtml:body/*"/>
@@ -142,9 +143,17 @@
       <xsl:when xmlns:content="http://purl.org/rss/1.0/modules/content/" test="content:encoded">
         <xsl:value-of select="content:encoded" disable-output-escaping="yes"/>
       </xsl:when>
-      <xsl:when test="description">
+ 		  <xsl:when test="not(contains($vendor, 'Transformiix')) and description">
         <xsl:value-of select="description" disable-output-escaping="yes"/>
       </xsl:when>
+      <!--
+          Firefox doesn't support disable-output-escaping:
+          https://bugzilla.mozilla.org/show_bug.cgi?id=98168
+          (Show plaintext description instead)
+      -->
+		  <xsl:when test="contains($vendor, 'Transformiix') and itunes:summary">
+        <xsl:value-of select="itunes:summary"/>
+		  </xsl:when>
     </xsl:choose>
   </xsl:template>
 </xsl:stylesheet>
