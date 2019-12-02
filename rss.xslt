@@ -32,7 +32,14 @@
             </h1>
             <p id="desctext"><xsl:value-of select="$feedDesc"/></p>
             <p class="copyright">
-              <xsl:value-of select="$copyright"/>
+              <xsl:choose>
+                <xsl:when test="contains($copyright,'http') or contains($copyright,'www')">
+                  <a href="{$copyright}"><xsl:value-of select="$copyright"/></a>
+                </xsl:when>
+                <xsl:otherwise>
+                  <xsl:value-of select="$copyright"/>
+                </xsl:otherwise>
+              </xsl:choose>
             </p>
           </div>
           <ul xmlns="http://www.w3.org/1999/xhtml" class="post-list">
