@@ -51,7 +51,11 @@
   <xsl:template match="item" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
       <li class="post-content">
         <span class="post-meta">
-          <xsl:if test="count(child::pubDate)=1"><xsl:value-of select="substring(pubDate, 0, 17)"/></xsl:if>
+          <xsl:if test="count(child::pubDate)=1">
+            <xsl:call-template name="format-from-rfc-to-iso">
+              <xsl:with-param name="rfc-date" select="pubDate" />
+            </xsl:call-template>
+          </xsl:if>
           <xsl:if test="count(child::dc:date)=1"><xsl:value-of select="dc:date"/></xsl:if>
         </span>
 
@@ -153,5 +157,29 @@
         <xsl:value-of select="itunes:summary"/>
 		  </xsl:when>
     </xsl:choose>
+  </xsl:template>
+
+  <!-- https://gist.github.com/bzerangue/862469 -->
+  <xsl:template name="format-from-rfc-to-iso">
+		<xsl:param name="rfc-date"/>
+		<xsl:param name="day-with-zero" select="format-number(substring(substring($rfc-date,6,11),1,2),'00')"/>
+		<xsl:param name="month-with-zero">
+			<xsl:if test="contains($rfc-date,'Jan')">01</xsl:if>
+			<xsl:if test="contains($rfc-date,'Feb')">02</xsl:if>
+			<xsl:if test="contains($rfc-date,'Mar')">03</xsl:if>
+			<xsl:if test="contains($rfc-date,'Apr')">04</xsl:if>
+			<xsl:if test="contains($rfc-date,'May')">05</xsl:if>
+			<xsl:if test="contains($rfc-date,'Jun')">06</xsl:if>
+			<xsl:if test="contains($rfc-date,'Jul')">07</xsl:if>
+			<xsl:if test="contains($rfc-date,'Aug')">08</xsl:if>
+			<xsl:if test="contains($rfc-date,'Sep')">09</xsl:if>
+			<xsl:if test="contains($rfc-date,'Oct')">10</xsl:if>
+			<xsl:if test="contains($rfc-date,'Nov')">11</xsl:if>
+			<xsl:if test="contains($rfc-date,'Dec')">12</xsl:if>
+		</xsl:param>
+		<xsl:param name="year-full" select="format-number(substring(substring($rfc-date,6,11),7,5),'####')"/>
+		<xsl:param name="rfc-date-to-iso" select="concat($year-full,'-',$month-with-zero,'-',$day-with-zero)"/>
+
+		<xsl:value-of select="$rfc-date-to-iso"/>
   </xsl:template>
 </xsl:stylesheet>
