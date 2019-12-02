@@ -5,14 +5,12 @@
   <xsl:variable name="feedDesc" select="/rss/channel/description"/>
   <xsl:variable name="copyright" select="/rss/channel/copyright"/>
   <xsl:variable name="feedUrl" select="/rss/channel/atom:link[@rel='self']/@href" xmlns:atom="http://www.w3.org/2005/Atom"/>
-  <xsl:variable name="baseURL" select="''" xmlns:atom="http://www.w3.org/2005/Atom"/>
-  <!-- <xsl:variable name="baseURL" select="'https://bronoverrattvik.github.io'" xmlns:atom="http://www.w3.org/2005/Atom"/> -->
 
   <xsl:template match="/">
     <xsl:element name="html">
       <head>
         <title><xsl:value-of select="$title"/></title>
-        <link href="{$baseURL}/assets/main.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://bronoverrattvik.github.io/assets/main.css" rel="stylesheet" type="text/css" media="all"/>
       </head>
       <xsl:apply-templates select="rss/channel"/>
     </xsl:element>
@@ -43,7 +41,7 @@
         </div>
         <footer class="site-footer">
           <div class="wrapper">
-            <h2 class="footer-heading"><a href="{$baseURL}/">Bron över Rättvik</a></h2>
+            <h2 class="footer-heading"><a href="https://bronoverrattvik.github.io/">Bron över Rättvik</a></h2>
           </div>
         </footer>
       </main>
