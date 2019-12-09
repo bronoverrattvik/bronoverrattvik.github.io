@@ -26,7 +26,7 @@ $brand-color: #f9e200;
 }
 
 .home {
-  ul {
+  ul:not([class]) {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
@@ -36,6 +36,7 @@ $brand-color: #f9e200;
     > li {
       display: inline-block;
       margin-bottom: ($spacing-unit / 2);
+
       &:not(:last-child) {
         margin-right: ($spacing-unit / 2);
       }
@@ -54,6 +55,10 @@ $brand-color: #f9e200;
         }
       }
     }
+  }
+
+  ul + .post-list-heading {
+    margin-top: $spacing-unit * 2;
   }
 }
 
