@@ -6,6 +6,6 @@ Site for the podcast Bron över Rättvik.
 
 ```bash
 bundle exec jekyll serve
-````
+```
 
 and open your browser at `http://localhost:4000`
