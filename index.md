@@ -10,6 +10,7 @@ Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha
 
 ## Besök
 * [![Facebook](images/facebook.svg "Bron över Rättvik på Facebook")](https://www.facebook.com/bronoverrattvik/)
+* [![Twitter](images/twitter.svg "Bron över Rättvik på Twitter")](https://twitter.com/bronoverrattvik)
 
 ## Prenumerera
 * [![RSS](/images/rss.svg "Prenumerera på Bron över Rättvik via RSS")](bronoverrattvik.xml)
