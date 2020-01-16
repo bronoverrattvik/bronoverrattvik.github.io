@@ -1,4 +1,4 @@
-![Bron över Rättvik](favicons/android-chrome-512x512.png)
+![Bron över Rättvik](b/image.jpg)
 
 Site for the podcast Bron över Rättvik.
 
