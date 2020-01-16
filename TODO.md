@@ -2,4 +2,4 @@
 *https://github.com/jekyll/jekyll-seo-tag/issues/375
  * `lang: se`
 *Player Card twitter: https://www.oncrawl.com/oncrawl-seo-thoughts/a-complete-guide-to-twitter-cards/
-*non cropped favicons
+
