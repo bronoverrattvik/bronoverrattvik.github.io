@@ -43,3 +43,14 @@ github_username: bronoverrattvik
 youtube_channel: UCtZqb4bn5vr8e60QblxvHhQ
 youtube_channel_name: Bron över Rättvik
 show_excerpts: true
+
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+twitter:
+  username: bronoverrattvik
+  card: summary
+social:
+  links:
+    - https://twitter.com/bronoverrattvik
+    - https://www.facebook.com/bronoverrattvik
+    - https://www.youtube.com/channel/UCtZqb4bn5vr8e60QblxvHhQ
+logo: /b/image.jpg
