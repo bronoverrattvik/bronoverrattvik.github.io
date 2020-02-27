@@ -2,7 +2,7 @@
 
 Site for the podcast Bron över Rättvik.
 
-[![Build Status](https://api.travis-ci.org/bronoverrattvik/bronoverrattvik.github.io.svg?branch=master)](https://travis-ci.org/bronoverrattvik/bronoverrattvik.github.io)
+[![Build Status](https://badgen.net/travis/bronoverrattvik/bronoverrattvik.github.io/master)](https://travis-ci.org/bronoverrattvik/bronoverrattvik.github.io)
 
 ## Develop
 
