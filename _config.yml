@@ -53,3 +53,8 @@ social:
     - https://www.facebook.com/bronoverrattvik
     - https://www.youtube.com/channel/UCtZqb4bn5vr8e60QblxvHhQ
 logo: /b/image.jpg
+
+# turn off smart-quotes for both apostrophes/single-quotes and double quotes
+# https://stackoverflow.com/a/25597026/1109380
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
