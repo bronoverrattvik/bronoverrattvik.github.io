@@ -5,7 +5,7 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Wed, 25 Mar 2020 11:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 12:24:20 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
@@ -55,6 +55,7 @@ Joe Bidens virtuella town hall: https://www.youtube.com/watch?v=QxhsV_6dWVs
 Kay simmar ur bild: https://www.youtube.com/watch?v=xf8beJji6zk
 </itunes:summary>
       <itunes:subtitle>Bron över Rättvik</itunes:subtitle>
+      <itunes:image href="https://bronoverrattvik.github.io/b/10%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20J%C3%A4rven.jpg"/>
       <title>10. Järven</title>
       <pubDate>Tue, 24 Mar 2020 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">10.+J%C3%A4rven-418876fd4d8da582d6db6903693cf8dd</guid>
@@ -74,7 +75,8 @@ Lastkaj 14:s soliga utomhusfest: <a href="https://www.youtube.com/watch?v=Cg4zc4
 <p>Joe Bidens virtuella town hall: <a href="https://www.youtube.com/watch?v=QxhsV_6dWVs">https://www.youtube.com/watch?v=QxhsV_6dWVs</a><br />
 Kay simmar ur bild: <a href="https://www.youtube.com/watch?v=xf8beJji6zk">https://www.youtube.com/watch?v=xf8beJji6zk</a></p>
 ]]></description>
-      <enclosure url="https://bronoverrattvik.github.io/b/10%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20J%C3%A4rven.mp3" length="89664903" type="audio/mpeg"/>
+      <image>https://bronoverrattvik.github.io/b/10%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20J%C3%A4rven.jpg</image>
+      <enclosure url="https://bronoverrattvik.github.io/b/10%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20J%C3%A4rven.mp3" length="90836564" type="audio/mpeg"/>
     </item>
     <item>
       <itunes:author>Bron över Rättvik</itunes:author>
