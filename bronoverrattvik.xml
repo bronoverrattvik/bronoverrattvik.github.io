@@ -5,7 +5,7 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Mon, 20 Apr 2020 19:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 07:52:08 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
@@ -25,10 +25,8 @@
     <itunes:category text="News">
       <itunes:category text="Politics"/>
     </itunes:category>
+    <itunes:category text="Comedy"/>
     <itunes:category text="History"/>
-    <itunes:category text="Comedy">
-      <itunes:category text="Comedy Interviews"/>
-    </itunes:category>
     <itunes:owner>
       <itunes:name>Bron över Rättvik</itunes:name>
       <itunes:email>bronoverrattvik@gmail.com</itunes:email>
