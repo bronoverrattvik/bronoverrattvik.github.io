@@ -5,7 +5,7 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Wed, 20 May 2020 11:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 09:18:27 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
@@ -32,6 +32,22 @@
       <itunes:email>bronoverrattvik@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://bronoverrattvik.github.io/b/image.jpg"/>
+    <item>
+      <itunes:author>Bron över Rättvik</itunes:author>
+      <itunes:duration>01:28:27</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Vi är tillbaka från vårt icke-utannonserade uppehåll! Oskar hälsar att han "led av utmattningssymptom" och läkarna tvångsbandagerade hans högerhand. Erik och Mattias har valt att inte spekulera öppet om exakt vad Oskar har pysslat med då vi inte vill uppmuntra till några konspirationsteorier. Speaking of. I det här avsnittet grottar vi ner oss i svensk rättsröta: bordellhärvan. Vi avhandlar bland annat sexiga svenska rikspolischefer, socialdemokratins kopplingar till USA:s underrättelsetjänst och Thorbjörn Fälldins retoriska krumbukter. Det är vår förhoppning att även ni kommer att lida av Geijerbrain efter att ha lyssnat.
+</itunes:summary>
+      <itunes:subtitle>Bron över Rättvik</itunes:subtitle>
+      <itunes:image href="https://bronoverrattvik.github.io/b/15%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Geijerbrain%20%28med%20Johannes%29.jpg"/>
+      <title>15. Geijerbrain (med Johannes)</title>
+      <pubDate>Tue, 15 Sep 2020 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">15.+Geijerbrain+%28med+Johannes%29-1f07b52498bdbdae1d04e4043b1b14dc</guid>
+      <description><![CDATA[<p>Vi är tillbaka från vårt icke-utannonserade uppehåll! Oskar hälsar att han "led av utmattningssymptom" och läkarna tvångsbandagerade hans högerhand. Erik och Mattias har valt att inte spekulera öppet om exakt vad Oskar har pysslat med då vi inte vill uppmuntra till några konspirationsteorier. Speaking of. I det här avsnittet grottar vi ner oss i svensk rättsröta: bordellhärvan. Vi avhandlar bland annat sexiga svenska rikspolischefer, socialdemokratins kopplingar till USA:s underrättelsetjänst och Thorbjörn Fälldins retoriska krumbukter. Det är vår förhoppning att även ni kommer att lida av Geijerbrain efter att ha lyssnat.</p>
+]]></description>
+      <image>https://bronoverrattvik.github.io/b/15%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Geijerbrain%20%28med%20Johannes%29.jpg</image>
+      <enclosure url="https://bronoverrattvik.github.io/b/15%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Geijerbrain%20%28med%20Johannes%29.mp3" length="90182417" type="audio/mpeg"/>
+    </item>
     <item>
       <itunes:author>Bron över Rättvik</itunes:author>
       <itunes:duration>00:53:29</itunes:duration>
