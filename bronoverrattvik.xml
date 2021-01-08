@@ -5,7 +5,7 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Fri, 08 Jan 2021 08:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 08:48:37 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
@@ -32,6 +32,22 @@
       <itunes:email>bronoverrattvik@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://bronoverrattvik.github.io/b/image.jpg"/>
+    <item>
+      <itunes:author>Bron över Rättvik</itunes:author>
+      <itunes:duration>00:53:00</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Högerns nya flaggskepp Bulletin har rekryterat en av Sveriges vassaste sudokulösare: Nina Lekander. Vi försöker gissa oss till vem hon är, men då vi inte faktakollar avsnitten är det oklart hur nära sanningen vi kommer. Stort grattis till Bulletin hur som helst! Vi pratar också om amerikanska porrivrare på vänsterkanten och den stora toalettkrisen på Chokladzingofabriken i Skellefteå. Dessutom: hur blir det i ett framtida USA när alla män är som Oskar och uteslutande läser om kod?
+</itunes:summary>
+      <itunes:subtitle>Bron över Rättvik</itunes:subtitle>
+      <itunes:image href="https://bronoverrattvik.github.io/b/17%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Teodajsproblemet.jpg"/>
+      <title>17. Teodajsproblemet</title>
+      <pubDate>Fri, 08 Jan 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17.+Teodajsproblemet-8e436f242c2116ba631bcb40899002d0</guid>
+      <description><![CDATA[<p>Högerns nya flaggskepp Bulletin har rekryterat en av Sveriges vassaste sudokulösare: Nina Lekander. Vi försöker gissa oss till vem hon är, men då vi inte faktakollar avsnitten är det oklart hur nära sanningen vi kommer. Stort grattis till Bulletin hur som helst! Vi pratar också om amerikanska porrivrare på vänsterkanten och den stora toalettkrisen på Chokladzingofabriken i Skellefteå. Dessutom: hur blir det i ett framtida USA när alla män är som Oskar och uteslutande läser om kod?</p>
+]]></description>
+      <image>https://bronoverrattvik.github.io/b/17%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Teodajsproblemet.jpg</image>
+      <enclosure url="https://bronoverrattvik.github.io/b/17%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20Teodajsproblemet.mp3" length="72082869" type="audio/mpeg"/>
+    </item>
     <item>
       <itunes:author>Bron över Rättvik</itunes:author>
       <itunes:duration>00:48:13</itunes:duration>
