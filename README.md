@@ -4,8 +4,6 @@
 
 Site for the podcast Bron över Rättvik.
 
-[![Build Status](https://badgen.net/travis/bronoverrattvik/bronoverrattvik.github.io/master)](https://travis-ci.org/bronoverrattvik/bronoverrattvik.github.io)
-
 ## Develop
 
 ### Local
