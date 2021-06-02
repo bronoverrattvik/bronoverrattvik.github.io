@@ -22,7 +22,7 @@ SET JEKYLL_ENV=production && bundle exec jekyll serve
 ### Docker
 
 ```bash
-docker-compose up
+docker compose up
 ```
 
 and open your browser at [`http://localhost:4000`](http://localhost:4000).
