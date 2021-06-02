@@ -5,7 +5,7 @@
     <title>Bron över Rättvik</title>
     <link>https://www.facebook.com/bronoverrattvik/</link>
     <description>Bron över Rättvik är dessutom lättläst och fängslande: Du behöver inte ha någon som helst vana vid att läsa tung vetenskaplig text.</description>
-    <lastBuildDate>Mon, 29 Mar 2021 18:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 11:23:35 +0000</lastBuildDate>
     <language>sv-se</language>
     <copyright>https://creativecommons.org/licenses/by-nd/3.0/</copyright>
     <generator>dir2cast 1.12 by Ben XO (https://github.com/ben-xo/dir2cast/)</generator>
@@ -32,6 +32,28 @@
       <itunes:email>bronoverrattvik@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://bronoverrattvik.github.io/b/image.jpg"/>
+    <item>
+      <itunes:author>Bron över Rättvik</itunes:author>
+      <itunes:duration>01:20:10</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Bron över Rättvik gör ett Snedtänkt-avsnitt om den svenska rebellrörelsen (uppkallad efter Calle Bodemars definition av punkare). Andra poddar har tolkat Maoistsekterna på en rad olika sätt – vi berättar om när Mattias pappa och en högeryngling fick rörelsen att gå under jorden. Hur mycket formationssimning klarar egentligen Sverige? Hade rebellrörelsen varit mer framgångsrika om man övergett Mao till förmån för Sankt Augustinus? Hur mycket knullade Francisco Sarrion? Frågorna är många, svaren uteblir sannolikt.
+
+---
+
+P1-dokumentären Rebellerna: https://sverigesradio.se/artikel/2895155
+</itunes:summary>
+      <itunes:subtitle>Bron över Rättvik</itunes:subtitle>
+      <itunes:image href="https://bronoverrattvik.github.io/b/20%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20En%20slags%20rebell.jpg"/>
+      <title>20. En slags rebell</title>
+      <pubDate>Wed, 02 Jun 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">20.+En+slags+rebell-756c846974d22572554dde103e524c2c</guid>
+      <description><![CDATA[<p>Bron över Rättvik gör ett Snedtänkt-avsnitt om den svenska rebellrörelsen (uppkallad efter Calle Bodemars definition av punkare). Andra poddar har tolkat Maoistsekterna på en rad olika sätt – vi berättar om när Mattias pappa och en högeryngling fick rörelsen att gå under jorden. Hur mycket formationssimning klarar egentligen Sverige? Hade rebellrörelsen varit mer framgångsrika om man övergett Mao till förmån för Sankt Augustinus? Hur mycket knullade Francisco Sarrion? Frågorna är många, svaren uteblir sannolikt.</p>
+<hr />
+<p>P1-dokumentären Rebellerna: <a href="https://sverigesradio.se/artikel/2895155">https://sverigesradio.se/artikel/2895155</a></p>
+]]></description>
+      <image>https://bronoverrattvik.github.io/b/20%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20En%20slags%20rebell.jpg</image>
+      <enclosure url="https://bronoverrattvik.github.io/b/20%20-%20Bron%20%C3%B6ver%20R%C3%A4ttvik%20-%20En%20slags%20rebell.mp3" length="96641582" type="audio/mpeg"/>
+    </item>
     <item>
       <itunes:author>Bron över Rättvik</itunes:author>
       <itunes:duration>00:59:13</itunes:duration>
