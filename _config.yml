@@ -27,8 +27,6 @@ exclude:
   - TODO.md
   - _posts/*.txt
 
-google_analytics: UA-152693638-2
-
 minima:
   date_format: "%Y-%m-%d"
 
